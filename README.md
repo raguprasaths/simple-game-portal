@@ -11,4 +11,4 @@
 <img src="img/game/g3.png">
 <br>
 <h2>mathematics game</h2>
-<img src="img/game/g4.pngg">
+<img src="img/game/g4.png">
